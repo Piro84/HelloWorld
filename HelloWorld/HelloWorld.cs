@@ -10,6 +10,7 @@ namespace HelloWorld
             Console.WriteLine("Jakob Syvertsen");
             Console.WriteLine("Qikun Liu");
             Console.WriteLine("Grace Hughes");
+            Console.ReadKey();
         }
     }
 }
